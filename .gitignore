@@ -338,3 +338,12 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/LocalAPK/libs/aapt.exe
+/LocalAPK/libs/AXMLPrinter2.jar
+/LocalAPK/libs/HtmlAgilityPack.old.dll
+/localapk.iss
+/localapk_x64.iss
+/logo.psd
+/installer.bmp
+/installer_big.bmp
+/LocalAPK/aapt.exe
